@@ -30,3 +30,6 @@ To complete the tasks, learners must:
 - **Professional Standards:** Emphasis on industry-standard practices ensures readiness for advanced-level projects and client engagements.
 
 This project aims to sharpen skills essential for managing and delivering robust software systems by focusing on the cornerstone of successful development: Requirement Analysis.
+
+## What is Requirement Analysis?
+Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
